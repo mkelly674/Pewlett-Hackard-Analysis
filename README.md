@@ -12,5 +12,7 @@ Here are some results that I got from the analysis:
 - The Retiring_Titles is about the number of specified roles that need to be filled. This will help with the hiring process the most because it puts a number on the number of spots left to be filled. Here is a chart of how desperate we are in some of the roles:
 ![Visualizion_of_Retiring_Titles](https://user-images.githubusercontent.com/114030563/216788572-ddb0768d-0666-4677-a1cf-ca905a8fe6d9.png)
 
+As you can tell, we are losing a lot of senior engineers and senior staff. While those roles are important, we are also losing a lot on just engineers. We are going to start needing to hire people in the tens of thousands to just keep them a stable flow of them. It is paramont how important these numbers are. This leads us into the final table.
+
 -
 
